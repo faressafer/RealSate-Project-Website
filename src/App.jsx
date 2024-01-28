@@ -1,6 +1,6 @@
 import Header from "./components/Header/Header";
 import Hero from "./components/Hero/Hero";
-import './App.css'
+import "./App.css";
 import Companies from "./components/Companies/Companies";
 import Residencies from "./components/Residencies/Residencies";
 import Value from "./components/Value/Value";
@@ -14,14 +14,14 @@ function App() {
       <div>
         <Header />
         <Hero />
-        <div className="white-gradient"/>
+        <div className="white-gradient" />
       </div>
-      <Companies/>
-      <Residencies/>
-      <Value/>
+      <Companies />
+      <Residencies />
+      <Value />
       <Contact />
-      <GetStarted/>
-      <Footer/>
+      <GetStarted />
+      <Footer />
     </div>
   );
 }
