@@ -5,7 +5,7 @@ const Footer = () => {
     <section className="f-wrapper">
       <div className="paddings innerWidth flexCenter f-container">
         <div className="f-left flexColStart">
-          <img src="./logo2.png" alt="" width={120} />
+          <img src="" alt="" width={120} />
           <span className="secondaryText">
             Our Vission is to make all peapke
             <br />
