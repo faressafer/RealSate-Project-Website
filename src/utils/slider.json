@@ -1,38 +1,38 @@
 [
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "name": "Sunrise Gardens",
+    "price": "55,000",
+    "detail": "Street X, City A",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "name": "Meadow View Residences",
+    "price": "42,500",
+    "detail": "Street Y, City B",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "name": "Oakwood Estates",
+    "price": "39,900",
+    "detail": "Street Z, City C",
     "image": "./r3.png"
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "name": "Pinecrest Villas",
+    "price": "68,200",
+    "detail": "Street W, City D",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "name": "Riverbend Apartments",
+    "price": "59,300",
+    "detail": "Street V, City E",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "name": "Golden Fields Condos",
+    "price": "47,800",
+    "detail": "Street U, City F",
     "image": "./r3.png"
   }
 ]

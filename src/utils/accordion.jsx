@@ -1,23 +1,25 @@
 import { HiShieldCheck } from "react-icons/hi";
 import { MdCancel, MdAnalytics } from "react-icons/md";
+
 const data = [
   {
-    icon: <HiShieldCheck/>,
-    heading: "Best interest rates on the market",
+    icon: <HiShieldCheck />,
+    heading: "Secure Neighborhoods",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id ipsum sed ipsum pretium pretium. Suspendisse sed metus vel libero scelerisque lobortis.",
   },
   {
     icon: <MdCancel />,
-    heading: "Prevent unstable prices",
+    heading: "Guaranteed Property Quality",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id ipsum sed ipsum pretium pretium. Suspendisse sed metus vel libero scelerisque lobortis.",
   },
   {
     icon: <MdAnalytics />,
-    heading: "Best price on the market",
+    heading: "Market Insights",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id ipsum sed ipsum pretium pretium. Suspendisse sed metus vel libero scelerisque lobortis.",
   },
 ];
+
 export default data;
