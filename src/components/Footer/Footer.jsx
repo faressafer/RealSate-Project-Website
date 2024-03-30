@@ -7,14 +7,14 @@ const Footer = () => {
         <div className="f-left flexColStart">
           <img src="" alt="" width={120} />
           <span className="secondaryText">
-            Our Vission is to make all peapke
+            Our Vission is to find the best place
             <br />
-            the best place to live for them
+            for peaple to live for them
           </span>
         </div>
         <div className="f-right flexColStart">
           <span className="primaryText">Information</span>
-          <span className="secondaryText">145 New york,FL 4571,USA</span>
+          <span className="secondaryText">New York</span>
           <div className="flexCenter f-menu">
             <span>Property</span>
             <span>Servcices</span>
